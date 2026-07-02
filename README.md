@@ -10,8 +10,6 @@
   <a target="_blank" href="https://www.linkedin.com/in/sebastian-rudolph-252a92336"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<br>
-
 ## 🧭 Über mich
 
 Ich bin gelernter **Mediengestalter für Digital- und Printmedien** mit langjähriger **Agenturerfahrung** — von Shopware-Shopdesign über CMS-Projekte bis zur direkten Kundenbetreuung. Aktuell erweitere ich mein Handwerk gezielt in Richtung moderner **Frontend-Entwicklung**, mit dem Ziel, Design und Code selbst zusammenzubringen. Nebenbei bin ich als **ambitionierter Fotograf** unterwegs und bringe von dort ein geschultes Auge für Komposition, Farbe und Details mit in jedes UI, das ich baue.
@@ -20,8 +18,6 @@ Ich bin gelernter **Mediengestalter für Digital- und Printmedien** mit langjäh
 - 🛒 **Shopware & CMS** — jahrelange Praxis in Shopdesign, Templates und Kundenprojekten
 - 💻 **Frontend im Aufbau** — aktuell fokussiert auf **TypeScript**, **React** und **Vue.js**
 - 📸 **Fotografie** — Straße, Licht, Perspektive — Details, die auch im UI-Design zählen
-
-<br>
 
 ## 🧩 Skills
 
@@ -49,22 +45,7 @@ Ich bin gelernter **Mediengestalter für Digital- und Printmedien** mit langjäh
   <img src="https://img.shields.io/badge/JavaScript-7%2F10-1D4ED8?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-**⚪ Agentur & Soft Skills**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Agenturerfahrung-Langj%C3%A4hrig-475569?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kundenbetreuung-Erfahren-475569?style=for-the-badge" />
-</p>
-
-<br>
-
 ## 🚀 Aktuell am Lernen
-
-<p align="left">
-  <i>Hellere Töne derselben Farbfamilie = neue Skills im Aufbau</i>
-</p>
-
-**🔵 Web-Entwicklung**
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-In%20Progress-60A5FA?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -72,8 +53,6 @@ Ich bin gelernter **Mediengestalter für Digital- und Printmedien** mit langjäh
   <img src="https://img.shields.io/badge/Vue.js-In%20Progress-60A5FA?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-In%20Progress-60A5FA?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
-
-<br>
 
 ## 📌 Wie dieses Profil funktioniert
 
