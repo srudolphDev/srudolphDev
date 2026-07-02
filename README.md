@@ -22,7 +22,15 @@ I am a trained **media designer for digital and print media** with extensive **a
 ## 🧩 Skills
 
 <p align="left">
-  Frontend-Development | Mediadesign | Showpare | webEdition | Photography
+  Frontend-Development > HTML / CSS / JS / PHP / Bootstrap
+</p>
+
+<p align="left">
+  CMS & eCommerce > Showpare / webEdition
+</p>
+
+<p align="left">
+  Mediadesign > Adobe Creative Cloud
 </p>
 
 ## 🚀 Currently learling
