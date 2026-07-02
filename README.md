@@ -73,32 +73,6 @@ Ich bin gelernter **Mediengestalter für Digital- und Printmedien** mit langjäh
   <img src="https://img.shields.io/badge/Tailwind%20CSS-In%20Progress-60A5FA?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-**🟣 Design**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-In%20Progress-C084FC?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-<br>
-
-## 🎨 Design & Fotografie
-
-**🟣 Design**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-Expert-7E22CE?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-7E22CE?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-7E22CE?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/InDesign-7E22CE?style=for-the-badge&logo=adobeindesign&logoColor=white" />
-</p>
-
-**🟠 Fotografie**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Lightroom-D97706?style=for-the-badge&logo=adobelightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Capture%20One-D97706?style=for-the-badge&logo=captureone&logoColor=white" />
-</p>
-
 <br>
 
 ## 📌 Wie dieses Profil funktioniert
