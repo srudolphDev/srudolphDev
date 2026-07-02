@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, im Sebastian</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Fullstack-Creative;Mediadesigner+&amp;+Photographer;Frontend-Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Fullstack-Creative;Frontend-Developer;Mediadesigner+and+Photographer" alt="Typing SVG" />
 </p>
 
 <p align="center">
